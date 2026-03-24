@@ -1,11 +1,23 @@
-<h1 align="center">Hi 👋, I'm Arnold Bustos</h1>
-<h3 align="center">A passionate frontend developer from Indianapolis, Indiana</h3>
+# Arnold Bustos
 
-- 📫 How to reach me **arnoldalejandrobustos@gmail.com**
+Software Engineer based in Indianapolis, IN.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+I build and maintain web applications across frontend and backend work, with professional experience in React, TypeScript, Apex, SOQL, SQL, Lightning Web Components, and production support.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## What I Work On
+- Modern web application UI
+- Full-stack feature development
+- Legacy modernization
+- Data-driven application workflows
+- Personal projects in React, Python, and backend development
+
+## Selected Projects
+
+### Workout Tracker
+Full-stack application for workout logging and progress tracking using React, TypeScript, Supabase, and SQL.
+
+### Gameplay Performance Analyzer
+Python project for parsing gameplay statistics and visualizing performance trends.
+
+## Contact
+- arnoldalejandrobustos@gmail.com
