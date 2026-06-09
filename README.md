@@ -19,6 +19,8 @@
 
 ---
 
+<!-- About section -->
+
 ## About
 
 I build user-facing applications, internal tools, and full-stack product features with a focus on practical usability, maintainable UI architecture, and production support.
@@ -27,12 +29,14 @@ My professional experience includes React, TypeScript, Apex, SOQL, SQL, Lightnin
 
 Current areas of focus:
 
-* Building polished mobile and web product experiences
-* Improving React Native, TypeScript, and testable frontend architecture
-* Developing practical analytics and workflow tools
+* Building polished web and mobile product experiences
+* Expanding full-stack TypeScript work across React, Node, Express, and PostgreSQL
+* Developing practical tools with clear workflows, persistent data, and user-focused dashboards
 * Preparing public project documentation, screenshots, and demo material
 
 ---
+
+<!-- Tech stack section ->
 
 ## Tech Stack
 
@@ -55,15 +59,20 @@ Current areas of focus:
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React badge" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js badge" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express badge" />
   <img src="https://img.shields.io/badge/Lightning_Web_Components-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Lightning Web Components badge" />
   <img src="https://img.shields.io/badge/Salesforce_Platform-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce Platform badge" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase badge" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS badge" />
 </p>
 
-### Tools
+### Databases and Tools
 
 <p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL badge" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker badge" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git badge" />
   <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket badge" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira badge" />
@@ -73,11 +82,43 @@ Current areas of focus:
 
 ---
 
+<!-- Featured projects section -->
+
 ## Featured Projects
 
-### Workout Tracker
+### Live Dex Tracker
+
+Full-stack Pokémon living dex tracking application built with React, TypeScript, Node.js, Express, Prisma, PostgreSQL, Tailwind CSS, and Docker.
+
+The project is designed to help players track Pokédex and living dex progress through save file uploads, profile-based progress tracking, and dashboard-style collection views.
+
+Current and planned development areas:
+
+* Save file upload flows for automatic Pokédex progress tracking
+* Modular parsing logic for Pokémon save data
+* Dashboard summaries for seen, caught, missing, and living dex progress
+* Grid and list views for reviewing collection status
+* Named save profiles for organizing multiple playthroughs
+* Manual progress editing for entries that need user correction
+* Long-term support goal: save file uploads across every mainline Pokémon game series generation
+
+Focus areas:
+
+* Full-stack TypeScript architecture
+* REST API design with Express
+* PostgreSQL persistence through Prisma
+* State-heavy React dashboard UI
+* Modular parser, upload, profile, dex, and storage layers
+
+Repository: Public repo and documentation in progress
+
+---
+
+### Fitness Tracker
 
 Mobile workout tracking application built with React Native, TypeScript, Supabase, and SQL.
+
+This project is being developed as a private mobile app intended for App Store release, so the source code is not planned to be public.
 
 Current development areas:
 
@@ -88,11 +129,15 @@ Current development areas:
 * Categorized and custom exercises
 * Mobile-first UI flows for logging and reviewing workouts
 
-Status: active development. Public screenshots and setup documentation are being prepared.
+Focus areas:
 
-<!-- Replace this placeholder with the real repository URL when the repo is ready. -->
+* React Native product development
+* Mobile-first interface design
+* User session and workout state management
+* Practical fitness logging workflows
+* App Store-oriented polish and release preparation
 
-Repository: Coming soon
+Repository: Private during App Store development
 
 ---
 
@@ -111,24 +156,32 @@ Core features:
 * Embedded Matplotlib charts
 * Repeat analysis workflows through tabbed views and collapsible sections
 
-Status: being polished for public presentation.
+Focus areas:
 
-<!-- Replace this placeholder with the real repository URL when the repo is ready. -->
+* Desktop tooling
+* Local data analysis
+* Repeatable training workflows
+* Embedded charts and score summaries
 
-Repository: Coming soon
+Repository: Public project documentation being updated
 
 ---
+
+<!-- Build interests section  -->
 
 ## What I Like Building
 
 * Responsive product interfaces
 * Reusable UI components
+* Full-stack applications with clear data flows
 * Analytics and workflow tools
-* Practical full-stack applications
+* Mobile apps with practical daily-use flows
 * Features that reduce user friction
 * Internal tools that make repetitive workflows easier
 
 ---
+
+<!-- Contact section -->
 
 ## Contact
 
@@ -140,4 +193,3 @@ Repository: Coming soon
     <img src="https://img.shields.io/badge/GitHub-ArnoldBustos-informational?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
   </a>
 </p>
-
