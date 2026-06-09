@@ -36,7 +36,7 @@ Current areas of focus:
 
 ---
 
-<!-- Tech stack section ->
+<!-- Tech stack section -->
 
 ## Tech Stack
 
